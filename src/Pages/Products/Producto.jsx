@@ -11,7 +11,7 @@ export const Producto = () => {
                         nuestros productos
                     </p>
                     <p className="fs-2 fw-bold text-secondary pb-2">
-                        Llevar, vender y distribuir producto de calidad y a un buen precio es parte de mi labor.
+                        Llevar, vender y distribuir producto de calidad y a un buen precio es parte de mi labor con Agua Azanca, calidad para resfrescarte.
                     </p>
                     <br />
                     <div className="d-flex justify-content-center">
@@ -33,6 +33,7 @@ export const Producto = () => {
                                             <p className="card-text fs-4"><i className="fas fa-phone mr-3"></i><a href='tel:+50369379287' className="text-decoration-none "> +503 6937-9287</a> Llamadas telefonicas.</p>
                                             <p className="card-text fs-4"><i className="fas fab fa-whatsapp mr-3"></i><a href='https://wa.me/50369379287?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 6937-9287</a> Whatsapp Business.</p>
                                             <p className="card-text fs-4"><i className="fa-brands fa-whatsapp"></i><a href='https://wa.me/50370320769?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 7032-0769</a> Whatsapp personal.</p>
+                                            <p className="card-text fs-4"><i className="fa-solid fa-droplet"></i> Visita la pagina oficial de la empresa:<a href='https://azanca.es/' className="text-decoration-none "> Azanca.es</a></p>
                                         </div>
                                     </div>
                                 </div>

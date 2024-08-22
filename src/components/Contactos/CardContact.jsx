@@ -18,6 +18,8 @@ export const CardContacts =()=>{
                 <i className="fa-solid fa-check"></i> Escribenos también al Whatsapp personal: <i className="fa-brands fa-whatsapp"></i><a href='https://wa.me/50370320769?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 7032-0769</a>
                 <br />
                 <i className="fa-solid fa-check"></i> Escribenos también al correo: <i className="fa-solid fa-envelope"></i> <a href='https://mail.google.com/mail/?view=cm&fs=1&to=castillo.jose071977@gmail.com&su=Solicitud%20de%20información&body=Cordiales%20saludos,%20quisiera%20información%20de%20los%20productos%20en%20Agua%20Azanca.' target="_blank" className="text-decoration-none ">castillo.jose071977@gmail.com</a>
+                <br />
+                <i className="fa-solid fa-droplet"></i> Visita la pagina oficial de la empresa:<a href='https://azanca.es/' className="text-decoration-none "> Azanca.es</a>
                 </p>
             </div>
         </div>
