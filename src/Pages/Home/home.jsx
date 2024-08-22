@@ -21,7 +21,7 @@ export const Home=()=>{
                     <p className="text-center fs-4 text-success">
                     (Repartidor Independiente)
                 </p>
-                    <p className="fs-2 fw-bold text-secondary pb-5">
+                    <p className="fs-4 fw-bold text-secondary pb-5">
                         Es un placer presentarnos como tu proveedor y repartidor independiente, de confianza de agua embotellada de la marca Azanca en el departamento de La Paz, soy José Castillo. Estamos aquí para ofrecerte agua pura y fresca, disponible en una variedad de presentaciones para satisfacer todas tus necesidades, ya sea para tu hogar, negocio, o tienda.
                     </p>
                     <CarouselComponent/>

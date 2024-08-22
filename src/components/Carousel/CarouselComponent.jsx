@@ -1,12 +1,12 @@
 import { imagen } from "../../assets/img/img_resource"
-
+import './../../css/Carousel.css'
 export const CarouselComponent =()=>{
     return(
         <div id="autoPlay" className="carousel slide pb-5" data-bs-ride="carousel">
             <div className="carousel-inner">
             {imagen.map((image, index) => (
                     <div className={`carousel-item ${index === 0 ? 'active' : ''}`} key={index}>
-                        <img src={image.src} className="d-block w-100" height={'600px'} alt={image.alt} />
+                        <img src={image.src} className="d-block w-100" height={'400px'} alt={image.alt} />
                     </div>
                 ))}
             </div>

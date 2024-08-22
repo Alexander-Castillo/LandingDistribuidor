@@ -10,7 +10,7 @@ export const Producto = () => {
                     <p className="fs-1 fw-bold text-center text-primary text-uppercase pt-5">
                         nuestros productos
                     </p>
-                    <p className="fs-2 fw-bold text-secondary pb-2">
+                    <p className="fs-4 fw-bold text-secondary pb-2">
                         Llevar, vender y distribuir producto de calidad y a un buen precio es parte de mi labor con Agua Azanca, calidad para resfrescarte.
                     </p>
                     <br />
@@ -23,17 +23,17 @@ export const Producto = () => {
                                     </div>
                                     <div className="col-md-6 col-lg-7">
                                         <div className="card-body">
-                                            <p className="card-text fs-4">Llevandote el mejor producto hasta tu local, tienda, hogar o negocio:</p>
-                                            <p className="card-text fs-4">-Garrafón de agua de 19 Litros.</p>
-                                            <p className="card-text fs-4">-Galón de agua Azul.</p>
-                                            <p className="card-text fs-4">-Galón de agua Transparente.</p>
-                                            <p className="card-text fs-4">-Botella de 1 Litro, 12 y 6 unidades.</p>
-                                            <p className="card-text fs-4">-Botella de 600 ml, 12 y 6 unidades.</p>
-                                            <p className="card-text fs-4">-Bolsa de agua de 500 ml, fardo de 25 unidades.</p>
-                                            <p className="card-text fs-4"><i className="fas fa-phone mr-3"></i><a href='tel:+50369379287' className="text-decoration-none "> +503 6937-9287</a> Llamadas telefonicas.</p>
-                                            <p className="card-text fs-4"><i className="fas fab fa-whatsapp mr-3"></i><a href='https://wa.me/50369379287?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 6937-9287</a> Whatsapp Business.</p>
-                                            <p className="card-text fs-4"><i className="fa-brands fa-whatsapp"></i><a href='https://wa.me/50370320769?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 7032-0769</a> Whatsapp personal.</p>
-                                            <p className="card-text fs-4"><i className="fa-solid fa-droplet"></i> Visita la pagina oficial de la empresa:<a href='https://azanca.es/' className="text-decoration-none "> Azanca.es</a></p>
+                                            <p className="card-text fs-5">Llevandote el mejor producto hasta tu local, tienda, hogar o negocio: <br />
+                                            <br />-Garrafón de agua de 19 Litros.
+                                            <br />-Galón de agua Azul.
+                                            <br />-Galón de agua Transparente.
+                                            <br />-Botella de 1 Litro, 12 y 6 unidades.
+                                            <br />-Botella de 600 ml, 12 y 6 unidades.
+                                            <br />-Bolsa de agua de 500 ml, fardo de 25 unidades.
+                                            <br /><i className="fas fa-phone mr-3"></i><a href='tel:+50369379287' className="text-decoration-none "> +503 6937-9287</a> Llamadas telefonicas.
+                                            <br /><i className="fas fab fa-whatsapp mr-3"></i><a href='https://wa.me/50369379287?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 6937-9287</a> Whatsapp Business.
+                                            <br /><i className="fa-brands fa-whatsapp"></i><a href='https://wa.me/50370320769?text=Quiero%20solicitar%20informaci%C3%B3n%20de%20los%20productos%20de%20Agua%20Azanca.' className="text-decoration-none "> +503 7032-0769</a> Whatsapp personal.
+                                            <br /><i className="fa-solid fa-droplet"></i> Visita la pagina oficial de la empresa:<a href='https://azanca.es/' className="text-decoration-none "> Azanca.es</a></p>
                                         </div>
                                     </div>
                                 </div>

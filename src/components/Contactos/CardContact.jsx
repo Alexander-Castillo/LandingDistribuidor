@@ -8,7 +8,7 @@ export const CardContacts =()=>{
             <div className="card-body">
             <p className="card-text fs-4 text-center">
             🚚 ¡Te lo llevamos hasta la puerta!</p>
-                <p className="card-text fs-4">Si deseas mayor información sobre los productos y precios puedes contactarnos: <br /> 
+                <p className="card-text fs-6">Si deseas mayor información sobre los productos y precios puedes contactarnos: <br /> 
                     Nos encargamos de la entrega directa a tu domicilio o negocio, asegurando<br /> que siempre tengas agua fresca y de calidad a tu disposición.
                     <br />
                 <i className="fa-solid fa-check"></i> Puedes llamarnos al siguiente numero: <i className="fas fa-phone mr-3"></i><a href='tel:+50369379287' className="text-decoration-none "> +503 6937-9287</a>

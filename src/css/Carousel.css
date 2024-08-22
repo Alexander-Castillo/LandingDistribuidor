@@ -1,0 +1,14 @@
+/* Para pantallas pequeñas (smartphones) */
+.carousel-inner img {
+    height: auto;
+    /* Mantén el tamaño original de la imagen */
+}
+
+/* Para pantallas grandes (lg y superiores) */
+@media (min-width: 992px) {
+    .carousel-inner img {
+        height: 800px;
+        object-fit: contain;
+        /* Asegúrate de que la imagen se ajuste correctamente */
+    }
+}
