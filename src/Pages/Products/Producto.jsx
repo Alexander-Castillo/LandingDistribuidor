@@ -7,7 +7,7 @@ export const Producto = () => {
                 <div className="col-xl-2 col-xxl-2 d-none d-xl-block"></div>
                 <div className="col-lg-12 col-xl-8 col-xxl-8 align-items-center">
                     <br /><br />
-                    <p className="fs-1 fw-bold text-center text-primary text-uppercase pt-5 pb-3">
+                    <p className="fs-1 fw-bold text-center text-primary text-uppercase pt-5">
                         nuestros productos
                     </p>
                     <p className="fs-2 fw-bold text-secondary pb-2">

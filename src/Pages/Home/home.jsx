@@ -18,7 +18,7 @@ export const Home=()=>{
                     <p className="fs-1 fw-bold text-center text-primary text-uppercase">
                         ¡Bienvenidos a Distribuidora Castillo!
                     </p>
-                    <p className="text-center fs-4 text-success pb-5">
+                    <p className="text-center fs-4 text-success">
                     (Repartidor Independiente)
                 </p>
                     <p className="fs-2 fw-bold text-secondary pb-5">

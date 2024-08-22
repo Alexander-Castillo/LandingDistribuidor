@@ -3,7 +3,7 @@
     justify-content: center;
     background-image: url('./../assets/img/fondo.jpg');
     /** altura y ancho de la caja **/
-    height: 50rem;
+    height: 40rem;
     width: 100%;
     /* para que no se repita el fondo */
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@
     /* efecto del fondo de img en movimiento cuando hace scroll */
     background-attachment: fixed;
     /* estilo en la forma de la imagen */
-    clip-path: circle(80em at 50% -30rem);
+    clip-path: circle(70rem at 50% -30rem);
 }
 #imgNavbar{
     width: 4rem;

@@ -1,4 +1,4 @@
-import { Information } from "./components/Information/Information"
+import { Information } from "./Pages/Information/Information"
 import { Layout } from "./components/layout/Layout"
 import { Contactanos } from "./Pages/Contactanos/Contactanos"
 import { Home } from "./Pages/Home/home"

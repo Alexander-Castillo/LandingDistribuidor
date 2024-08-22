@@ -10,11 +10,11 @@ export const Navbar=()=>{
     }
     return (
         <div className="container-fluid">
-            <nav className="navbar fixed-top navbar-expand-lg navbar-light navbar-transparent" id="navbar">
+            <nav className="navbar fixed-top navbar-expand-xxl navbar-light navbar-transparent" id="navbar">
                 <a href="#Inicio" className="navbar-brand d-flex align-items-center" data-bs-dismiss="offcanvas">
-                    <img src={entrega2} alt="Logo" id="imgNavbar" className="align-text-top" />
+                    <img src={entrega2} alt="Logo" id="imgNavbar" className="d-none d-md-block d-inline-block align-text-top ms-1 me-1" />
                     <span className="span-title">
-                        <h1 className="ms-2 fw-bold ">Distribuidor de Agua</h1>
+                        <h3 className="fw-bold ms-3">Distribuidor de Agua</h3>
                     </span>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
