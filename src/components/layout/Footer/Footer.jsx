@@ -42,7 +42,7 @@ export const Footer=()=>{
                         <div className="row d-flex align-items-center">
                             <div className="col-md-7 col-lg-8 text-center text-md-start">
                                 <div className="p-3">
-                                    © 2024 Copyright: Distribuidora Castillo.
+                                    © 2024 Copyright: Jose Castillo.
                                 </div>
                             </div>
                             <div className="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
