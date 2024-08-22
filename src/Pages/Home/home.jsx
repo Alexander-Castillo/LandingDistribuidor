@@ -4,10 +4,10 @@ import { CarouselComponent } from "../../components/Carousel/CarouselComponent";
 export const Home=()=>{
 
     return (
-        <section id="welcome" className="container-fluid Welcome m-0 p-0">
-            <div className="col-xl-2 col-xxl-2 header m-0 p-0">
+        <section id="welcome" className="Welcome">
+            <div className="col-xl-12 col-xxl-12">
                 <br /><br />
-                <p className="text-center fs-1 fw-bold text-light text-uppercase mt-5 pt-5">
+                <p className="text-center fs-1 fw-bold text-success text-uppercase mt-5 pt-5">
                     distribuidor jose castillo
                 </p>
                 <img src={JAC} alt="" className="img-fluid rounded mx-auto d-block" />
