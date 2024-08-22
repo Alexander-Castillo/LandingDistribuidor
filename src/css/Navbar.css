@@ -1,0 +1,58 @@
+.header{display: flex, row;
+    /** ajustar contenido al centro **/
+    justify-content: center;
+    background-image: url('./../assets/img/fondo.jpg');
+    /** altura y ancho de la caja **/
+    height: 50rem;
+    width: 100%;
+    /* para que no se repita el fondo */
+    background-repeat: no-repeat;
+    /* para que la img fondo cubra todo el contenedor */
+    background-size: cover;
+    /* efecto del fondo de img en movimiento cuando hace scroll */
+    background-attachment: fixed;
+    /* estilo en la forma de la imagen */
+    clip-path: circle(80em at 50% -30rem);
+}
+#imgNavbar{
+    width: 4rem;
+    height: auto;
+}
+.navbar-transparent {
+    background-color: rgb(13, 88, 138);
+}
+
+.offcanvas.offcanvas-transparent {
+    background-color: rgba(0, 53, 88, 0.8) ;
+}
+
+.offcanvas-backdrop.show {
+    opacity: 0. !important;
+    /* Opacidad del fondo del offcanvas */
+}
+
+/* Estilos personalizados para textos e iconos blancos */
+.navbar-toggler {
+    border-color: white !important;
+    margin-right: 1rem;
+    /* Borde blanco para el botón toggler */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    /* Texto blanco para los enlaces del navbar */
+}
+
+.offcanvas-title,
+.offcanvas-body .nav-link, .span-title{
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 1px 1px black;
+    /* Texto blanco para los elementos del offcanvas */
+}
+.btn-close{
+    background-color: white !important;
+}
